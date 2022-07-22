@@ -17,4 +17,3 @@ This dataset contains sales target amount and date for each product category
 
 ### Acknowledgements
 Dataset received from my University, Original Author unknown
-
